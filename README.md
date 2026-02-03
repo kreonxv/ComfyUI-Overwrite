@@ -1,6 +1,6 @@
 # ComfyUI-Overwrite
 
-These nodes save and overwrite files on disk.
+These nodes save and overwrite created images and videos files on selected disk paths.
 
 Nodes and relevant save options:
 
